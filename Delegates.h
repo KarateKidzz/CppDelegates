@@ -82,6 +82,7 @@ Raw delegate payload: 10
 #ifndef CPP_DELEGATES
 #define CPP_DELEGATES
 
+#include <cstring>
 #include <vector>
 #include <memory>
 #include <tuple>
